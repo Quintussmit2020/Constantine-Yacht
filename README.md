@@ -1,2 +1,2 @@
 # Constantine-Yacht
-VR ArchViz project form Creator Constantine
+VR ArchViz project from Creator Constantine
